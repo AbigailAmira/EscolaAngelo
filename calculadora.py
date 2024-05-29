@@ -24,3 +24,5 @@ print("5 restto da divisão")
 print("6 potência")
 op = int(input("escolha a operação"))
 calcular(x, y, op)
+
+# Visto 29/05 - Prof. Parisotto
