@@ -20,6 +20,7 @@ print("1 adição")
 print("2 subtração")
 print("3 multiplicação")
 print("4 divisão")
-print
+print("5 restto da divisão")
+print("6 potência")
 op = int(input("escolha a operação"))
 calcular(x, y, op)
